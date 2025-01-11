@@ -104,7 +104,7 @@ A professionally curated list of awesome literature on **Self-Interpretable Mode
 | A value for n-person games | 1953 | Contrib. Theory Games |
 | Timeshap: Explaining recurrent models through sequence perturbations | 2021 | ACM SIGKDD |
 | Discerning decision-making process of deep neural networks with hierarchical voting transformation | 2021 | NeurIPS |
-| Kan: Kolmogorov-arnold networks | 2024 | arXiv preprint arXiv:2404.19756 |
+| Kan: Kolmogorov-arnold networks | 2024 | arXiv |
 
 # Function-based methods
 
@@ -112,13 +112,13 @@ A professionally curated list of awesome literature on **Self-Interpretable Mode
 | title | year | source |
 | ----- | ---- | ------ |
 | Discerning decision-making process of deep neural networks with hierarchical voting transformation | 2021 | NeurIPS |
-| Kan: Kolmogorov-arnold networks | 2024 | arXiv preprint arXiv |
+| Kan: Kolmogorov-arnold networks | 2024 | arXiv |
 | Integration of neural network-based symbolic regression in deep learning for scientific discovery | 2020 | IEEE Trans. Neural Netw. Learn. Syst. |
 | GINN-LP: A Growing Interpretable Neural Network for Discovering Multivariate Laurent Polynomial Equations | 2024 | AAAI |
 | End-to-end symbolic regression with transformers | 2022 | NeurIPS |
 | Controllable neural symbolic regression | 2023 | ICML |
 | Neural symbolic regression that scales | 2021 | ICML |
-| Symbolicgpt: A generative transformer model for symbolic regression | 2021 | arXiv preprint arXiv |
+| Symbolicgpt: A generative transformer model for symbolic regression | 2021 | arXiv |
 | A unified framework for deep symbolic regression | 2022 | NeurIPS |
 | Deep Generative Symbolic Regression | 2023 | ICLR |
 | Learning equations for extrapolation and control | 2018 | ICML |
@@ -235,7 +235,7 @@ A professionally curated list of awesome literature on **Self-Interpretable Mode
 | Interpretable neural-symbolic concept reasoning | 2023 | ICML |
 | Deep neural networks constrained by decision rules | 2019 | AAAI |
 | Weakly Supervised Explainable Phrasal Reasoning with Neural Fuzzy Logic | 2021 | ICLR |
-| Deep neural decision trees | 2018 | arXiv preprint arXiv |
+| Deep neural decision trees | 2018 | arXiv |
 | NBDT: Neural-Backed Decision Tree | 2020 | ICLR |
 | Vit-net: Interpretable vision transformers with neural tree decoder | 2022 | ICML |
 
