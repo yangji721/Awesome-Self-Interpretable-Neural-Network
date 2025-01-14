@@ -1,10 +1,9 @@
-# Awesome Self-Interpretable Models
+# Awesome Self-Interpretable Neural Network
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
 
-A professionally curated list of awesome literature on **Self-Interpretable Models**, which is the first work to comprehensively and systematically summarize the recent advances of machine learning models designed to have inherent interpretability, at the **Top AI Conferences and Journals**.
-
+A professionally curated list of awesome literature on **Self-Interpretable Neural Network** (SINN), which is the first work to comprehensively and systematically summarize the recent advances of machine learning models designed to have inherent interpretability. We focus on collecting and reviewing SINN-related papers published in leading AI-related conferences and journals, including but not limited to NeurIPS, ICML, ICLR, AAAI, CVPR, ACL, KDD, WWW, IJCAI, TAPMI, JMLR, TKDE, TOIS, and Nature-related journals, as well as influential works from the broader research community. 
 
 # Attribution-based methods
 
