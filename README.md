@@ -5,7 +5,13 @@
 
 A professionally curated list of awesome literature on **Self-Interpretable Neural Network** (SINN), which is the first work to comprehensively and systematically summarize the recent advances of machine learning models designed to have inherent interpretability. We focus on collecting and reviewing SINN-related papers published in leading AI-related conferences and journals, including but not limited to NeurIPS, ICML, ICLR, AAAI, CVPR, ACL, KDD, WWW, IJCAI, TAPMI, JMLR, TKDE, TOIS, and Nature-related journals, as well as influential works from the broader research community. 
 
-# Attribution-based methods
+We value your feedback! If you have any questions or suggestions, don’t hesitate to reach out to us.
+
+## Taxonomy
+
+![Taxonomy](./Taxonomy.jpg)
+
+## Attribution-based methods
 
 The following table explains the abbreviations used in this section:
 
@@ -18,21 +24,14 @@ The following table explains the abbreviations used in this section:
 
 | title                                                                                                                    |   year | subsubsections      | source                          |
 |:-------------------------------------------------------------------------------------------------------------------------|-------:|:--------------------|:--------------------------------|
-| A value for n-person games                                                                                               |   1953 | `ASA`               | Contrib. Theory Games           |
-| Neural Machine Translation by Jointly Learning to Align and Translate                                                    |   2015 | `GCA`               | ICLR                            |
 | Rationalizing Neural Predictions                                                                                         |   2016 | `GCA`               | EMNLP                           |
 | From softmax to sparsemax: A sparse model of attention and multi-label classification                                    |   2016 | `GCA`               | ICML                            |
-| A unified approach to interpreting model predictions                                                                     |   2017 | `ASA`               | NeurIPS                         |
-| Generalized additive models                                                                                              |   2017 | `ASA`               | Statistical models in S         |
-| Attention is all you need                                                                                                |   2017 | `GCA`               | NeurIPS                         |
-| Categorical Reparameterization with {Gumbel-Softmax}                                                                     |   2017 | `GCA`               | ICLR                            |
 | Neural interaction transparency (nit): Disentangling learned interactions for improved interpretability                  |   2018 | `ASA`               | NeurIPS                         |
 | INVASE: Instance-wise variable selection using neural networks                                                           |   2018 | `GCA`               | ICLR                            |
 | Learning to explain: An information-theoretic perspective on model interpretation                                        |   2018 | `GCA`               | ICML                            |
 | Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet                                 |   2018 | `ASA`               | ICLR                            |
 | Towards robust interpretability with self-explaining neural networks                                                     |   2018 | `GCA`, `HFA`        | NeurIPS                         |
 | Beyond Polarity: Interpretable Financial Sentiment Analysis with Hierarchical Query-driven Attention                     |   2018 | `GCA`               | IJCAI                           |
-| Reparameterizable subset sampling via continuous relaxations                                                             |   2019 | `GCA`               | IJCAI                           |
 | Interpretable multi-task learning for product quality prediction with attention mechanism                                |   2019 | `GCA`               | IEEE ICDE                       |
 | Adaptively Sparse Transformers                                                                                           |   2019 | `GCA`               | EMNLP                           |
 | Exploiting kernel sparsity and entropy for interpretable CNN compression                                                 |   2019 | `GCA`               | CVPR                            |
