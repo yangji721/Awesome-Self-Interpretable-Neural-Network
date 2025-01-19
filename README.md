@@ -15,7 +15,7 @@ We value your feedback! If you have any questions or suggestions, don’t hesita
 ### Attribution-based 
 
 | **Paper**                                                                                                                | **Year** | **Venue**          |
-|--------------------------------------------------------------------------------------------------------------------------|----------|---------------------|
+|--------------------------------------------------------------------------------------------------------------------------|:----------:|:---------------------:|
 | Rationalizing Neural Predictions                                                                                         | 2016     | EMNLP               |
 | From softmax to sparsemax: A sparse model of attention and multi-label classification                                    | 2016     | ICML                |
 | Neural interaction transparency (nit): Disentangling learned interactions for improved interpretability                  | 2018     | NeurIPS             |
@@ -105,7 +105,7 @@ We value your feedback! If you have any questions or suggestions, don’t hesita
 ### Function-based 
 
 | **Paper**                                                                                                 | **Year** | **Venue** |
-|-----------------------------------------------------------------------------------------------------------|----------|-----------|
+|-----------------------------------------------------------------------------------------------------------|:----------:|:---------------------:|
 | Learning equations for extrapolation and control                                                          | 2018     | ICML      |
 | Integration of neural network-based symbolic regression in deep learning for scientific discovery         | 2020     | TNNLS     |
 | Discerning decision-making process of deep neural networks with hierarchical voting transformation        | 2021     | NeurIPS   |
@@ -122,7 +122,7 @@ We value your feedback! If you have any questions or suggestions, don’t hesita
 ### Concept-based
 
 | **Paper**                                                                                                          | **Year** | **Venue**          |
-|--------------------------------------------------------------------------------------------------------------------|----------|---------------------|
+|--------------------------------------------------------------------------------------------------------------------|:----------:|:---------------------:|
 | Concept bottleneck models                                                                                          | 2020     | ICML                |
 | Concept whitening for interpretable image recognition                                                              | 2020     | Nature Machine Intelligence  |
 | Attention-based interpretability with concept transformers                                                         | 2021     | ICLR                |
@@ -152,7 +152,7 @@ We value your feedback! If you have any questions or suggestions, don’t hesita
 ### Prototype-based
 
 | **Paper**                                                                                              | **Year** | **Venue** |
-|--------------------------------------------------------------------------------------------------------|----------|------------|
+|--------------------------------------------------------------------------------------------------------|:----------:|:---------------------:|
 | This looks like that: deep learning for interpretable image recognition                                | 2019     | NeurIPS    |
 | Interpretable and steerable sequence learning via prototypes                                           | 2019     | SIGKDD     |
 | Neural prototype trees for interpretable fine-grained image recognition                                | 2021     | CVPR       |
@@ -178,7 +178,7 @@ We value your feedback! If you have any questions or suggestions, don’t hesita
 ### Rule-based
 
 | **Paper**                                                                                                     | **Year** | **Venue**      |
-|---------------------------------------------------------------------------------------------------------------|----------|-----------------|
+|---------------------------------------------------------------------------------------------------------------|:----------:|:---------------------:|
 | Logic Tensor Networks for Semantic Image Interpretation                                                       | 2017     | IJCAI           |
 | Deep neural decision trees                                                                                    | 2018     | ArXiv           |
 | Deep neural networks constrained by decision rules                                                            | 2019     | AAAI            |
@@ -214,7 +214,7 @@ We value your feedback! If you have any questions or suggestions, don’t hesita
 ### Image Data
 
 | **Paper** | **Year** | **Venue** |
-|-------------|------|--------|
+|-------------|:----------:|:---------------------:|
 | Neural-symbolic VQA: Disentangling reasoning from vision and language understanding | 2018 | NeurIPS |
 | Pathologist-level interpretable whole-slide cancer diagnosis with deep learning | 2019 | Nature Machine Intelligence |
 | Training interpretable convolutional neural networks by differentiating class-specific filters | 2020 | ECCV |
@@ -234,7 +234,7 @@ We value your feedback! If you have any questions or suggestions, don’t hesita
 ### Text Data
 
 | Paper Title | Year | Venue |
-|-------------|------|--------|
+|-------------|:----------:|:---------------------:|
 | Rationalizing Neural Predictions | 2016 | EMNLP |
 | Hierarchical attention networks for document classification | 2016 | NAACL |
 | Learning deep features for discriminative localization | 2016 | CVPR |
@@ -267,7 +267,7 @@ We value your feedback! If you have any questions or suggestions, don’t hesita
 ### Graph Data
 
 | **Paper** | **Year** | **Venue** |
-|-------------|------|--------|
+|-------------|:----------:|:---------------------:|
 | Multi-objective molecule generation using interpretable substructures | 2020 | ICML |
 | Explainable classification of brain networks via contrast subgraphs | 2020 | KDD |
 | Towards self-explainable graph neural network | 2021 | CIKM |
@@ -298,7 +298,7 @@ We value your feedback! If you have any questions or suggestions, don’t hesita
 ### Deep Reinforcement Learning
 
 | **Paper** | **Year** | **Venue** |
-|-------------|------|--------|
+|-------------|:----------:|:---------------------:|
 | Towards better interpretability in deep q-networks | 2019 | AAAI |
 | Towards interpretable reinforcement learning using attention augmented agents | 2019 | NeurIPS |
 | Alphastock: A buying-winners-and-selling-losers investment strategy using interpretable deep reinforcement attention networks | 2019 | KDD |
@@ -319,7 +319,7 @@ We value your feedback! If you have any questions or suggestions, don’t hesita
 ## Evaluation Metrics
 
 | **Paper** | **Year** | **Venue** |
-|-------------|------|--------|
+|-------------|:----------:|:---------------------:|
 | On completeness-aware concept-based explanations in deep neural networks | 2018 | NeurIPS |
 | Towards robust interpretability with self-explaining neural networks | 2018 | NeurIPS |
 | Concept bottleneck models | 2020 | ICML |
