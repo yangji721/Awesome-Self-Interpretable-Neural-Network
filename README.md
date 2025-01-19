@@ -307,7 +307,7 @@ We value your feedback! If you have any questions or suggestions, don’t hesita
 | [Learning tree interpretation from object representation for deep reinforcement learning](https://proceedings.neurips.cc/paper/2021/hash/a35fe7f7fe8217b4369a0af4244d1fca-Abstract.html) | 2021 | NeurIPS |
 | [Edge: Explaining deep reinforcement learning policies](https://proceedings.neurips.cc/paper/2021/hash/65c89f5a9501a04c073b354f03791b1f-Abstract.html) | 2021 | NeurIPS |
 | [Differentiable logic policy for interpretable deep reinforcement learning](https://doi.org/10.1109/TPAMI.2023.3285634) | 2023 | TPAMI |
-| [N²AQ: Neural Attention Additive Model for Interpretable Multi-Agent Q-Learning]((https://proceedings.mlr.press/v202/liu23be.html)) | 2023 | ICML |
+| [N²AQ: Neural Attention Additive Model for Interpretable Multi-Agent Q-Learning](https://proceedings.mlr.press/v202/liu23be.html) | 2023 | ICML |
 | [Explainable reinforcement learning via a causal world model](https://doi.org/10.24963/ijcai.2023/505) | 2023 | IJCAI |
 | [ProtoX: Explaining a Reinforcement Learning Agent via Prototyping](http://papers.nips.cc/paper_files/paper/2022/hash/ae5bf4f35236240c9460e761c60fa53d-Abstract-Conference.html) | 2023 | NeurIPS |
 | [Towards interpretable deep reinforcement learning with human-friendly prototypes](https://openreview.net/forum?id=hWwY_Jq0xsN) | 2023 | ICLR |
@@ -341,9 +341,6 @@ We value your feedback! If you have any questions or suggestions, don’t hesita
 
 
 ## Citations
-
-If this repository is helpful to you, please cite our survey.
-
 ```
 @article{jiyang2025sinn,
   title={A Comprehensive Survey on Self-Interpretable Neural Networks},
