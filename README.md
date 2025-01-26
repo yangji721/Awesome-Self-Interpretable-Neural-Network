@@ -359,9 +359,9 @@ We value your feedback! If you have any questions or suggestions, don’t hesita
 @article{jiyang2025sinn,
   title={A Comprehensive Survey on Self-Interpretable Neural Networks},
   author={Yang Ji and Ying Sun and Yuting Zhang and Zhigaoyuan Wang and Yuanxin Zhuang and Zheng Gong and Dazhong Shen and Chuan Qin and Hengshu Zhu and Hui Xiong},
-  journal={arXiv preprint arXiv:2301.07854},
+  journal={arXiv preprint arXiv:xxxx.xxxxx},
   year={2025},
-  url={https://arxiv.org/abs/2301.07854}
+  url={https://arxiv.org/abs/xxxx.xxxxx}
 }
 ```
 
