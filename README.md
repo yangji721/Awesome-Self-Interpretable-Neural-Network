@@ -1,11 +1,13 @@
-# Awesome Self-Interpretable Neural Network
+# Awesome Self-Interpretable Neural Networks
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
 
-This repository is a curated collection of **Self-Interpretable Neural Network** (SINN) literature, offering a comprehensive and systematic summary of recent advancements in machine learning models designed with inherent interpretability. The focus is on papers related to SINNs, including **foundational theories**, **model designs**, and **interpretability evaluations or debates**. The curated works are sourced from leading AI conferences and journals, such as NeurIPS, ICML, ICLR, AAAI, CVPR, ACL, KDD, WWW, IJCAI, TAPMI, JMLR, TKDE, TOIS, and Nature-related journals, along with influential contributions from the broader research community.
+This repository is a curated collection of literature on **Self-Interpretable Neural Networks** (SINNs), providing a comprehensive and systematic summary of recent advancements in machine learning models designed with inherent interpretability. It highlights key works related to SINNs, covering **foundational theories**, **model designs**, and **interpretability evaluations and debates**. 
 
-We value your feedback! If you have any questions or suggestions, don’t hesitate to reach out to us. If you find this repository helpful, please consider citing our paper ([content](#citations); [reference](#citations)).
+The collection includes papers from top-tier AI conferences and journals, such as NeurIPS, ICML, ICLR, AAAI, CVPR, ACL, KDD, WWW, IJCAI, TAPMI, JMLR, TKDE, TOIS, and Nature-related journals, alongside influential contributions from the broader research community.
+
+We value your feedback! If you have any questions, suggestions, or ideas for improvement, please don’t hesitate to reach out to us. If you find this repository helpful, we kindly encourage you to read our paper, **"A Comprehensive Survey on Self-Interpretable Neural Networks"** ([read here](https://arxiv.org/abs/2501.15638); [citation](#citations)).
 
 ## Taxonomy of our paper
 
@@ -356,12 +358,11 @@ We value your feedback! If you have any questions or suggestions, don’t hesita
 
 ## Citations
 ```
-@article{jiyang2025sinn,
+@article{ji2025comprehensive,
   title={A Comprehensive Survey on Self-Interpretable Neural Networks},
   author={Yang Ji and Ying Sun and Yuting Zhang and Zhigaoyuan Wang and Yuanxin Zhuang and Zheng Gong and Dazhong Shen and Chuan Qin and Hengshu Zhu and Hui Xiong},
-  journal={arXiv preprint arXiv:xxxx.xxxxx},
-  year={2025},
-  url={https://arxiv.org/abs/xxxx.xxxxx}
+  journal={arXiv preprint arXiv:2501.15638},
+  year={2025}
 }
 ```
 
