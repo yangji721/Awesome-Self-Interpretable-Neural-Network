@@ -305,8 +305,7 @@ We value your feedback! If you have any questions, suggestions, or ideas for imp
 | [Exgc: Bridging efficiency and explainability in graph condensation](https://doi.org/10.1145/3589334.3645551)                                                                                           | 2024     | WWW       | -                                                                                          |
 | [A Symbolic Rule Integration Framework with Logic Transformer for Inductive Relation Prediction](https://doi.org/10.1145/3589334.3645594)                                                               | 2024     | WWW       | -                                                                                          |
 | [MMGNN: A Molecular Merged Graph Neural Network for Explainable Solvation Free Energy Prediction](https://www.ijcai.org/proceedings/2024/642)                                                           | 2024     | IJCAI     | -                                                                                          |
-| [SEHG: Bridging Interpretability and Prediction in Self-Explainable Heterogeneous Graph Neural Networks](https://openreview.net/pdf?id=gfqM0MyzLn)                                   
-               | 2025     | WWW      | -                                                                                          |
+| [SEHG: Bridging Interpretability and Prediction in Self-Explainable Heterogeneous Graph Neural Networks](https://openreview.net/pdf?id=gfqM0MyzLn)                                      | 2025     | WWW      | -                                                                                          |
 
 
 ### Deep Reinforcement Learning
