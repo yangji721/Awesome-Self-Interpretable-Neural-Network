@@ -119,7 +119,7 @@ We value your feedback! If you have any questions, suggestions, or ideas for imp
 | [A unified framework for deep symbolic regression](http://papers.nips.cc/paper_files/paper/2022/hash/dbca58f35bddc6e4003b2dd80e42f838-Abstract-Conference.html)                                     | 2022     | NeurIPS   | [Code](https://github.com/samholt/deepgenerativesymbolicregression)                 |
 | [Controllable neural symbolic regression](https://proceedings.mlr.press/v202/bendinelli23a.html)                                                                                                    | 2023     | ICML      | [Code](https://github.com/rtqichen/torchdiffeq)                                     |
 | [Deep Generative Symbolic Regression](https://openreview.net/forum?id=o7koEEMA1bR)                                                                                                                  | 2023     | ICLR      | -                                                                                   |
-| [Kan: Kolmogorov-arnold networks](https://doi.org/10.48550/arXiv.2404.19756)                                                                                                                        | 2024     | ArXiv     | [Code](https://github.com/kindxiaoming/pykan)                                       |
+| [Kan: Kolmogorov-arnold networks](https://doi.org/10.48550/arXiv.2404.19756)                                                                                                                        | 2025     | ICLR     | [Code](https://github.com/kindxiaoming/pykan)                                       |
 | [GINN-LP: A Growing Interpretable Neural Network for Discovering Multivariate Laurent Polynomial Equations](https://doi.org/10.1609/aaai.v38i13.29396)                                              | 2024     | AAAI      | -                                                                                   |
 
 
@@ -378,8 +378,3 @@ We value your feedback! If you have any questions, suggestions, or ideas for imp
 - [Awesome-Graph-Explainability-Papers](https://github.com/flyingdoog/awesome-graph-explainability-papers)
 - [Awesome-Explainable-Reinforcement-Learning](https://github.com/Plankson/awesome-explainable-reinforcement-learning)
 - [Explainability-for-Large-Language-Models](https://github.com/hy-zhao23/Explainability-for-Large-Language-Models)
-
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yangji721/Awesome-Interpretable-Network&type=Date)](https://star-history.com/#yangji721/Awesome-Interpretable-Network&Date)
