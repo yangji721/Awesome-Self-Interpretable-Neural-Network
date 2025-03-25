@@ -11,7 +11,7 @@ We value your feedback! If you have any questions, suggestions, or ideas for imp
 
 ## Taxonomy of our paper
 
-![Taxonomy](./Taxonomy.jpg)
+![Taxonomy](Taxonomy.jpg)
 
 ## Self-Interpretation Methods
 ### Attribution-based 
